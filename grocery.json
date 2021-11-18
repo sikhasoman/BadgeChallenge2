@@ -1,0 +1,88 @@
+{
+  "grocery" : [
+        {
+            "SeriaNno" : "1",
+            "Itemname" : "Rice",
+            "Quantity" : "2kg",
+            "Unit" : "86",
+            "Department" : "Grains",
+            "Notes" : "Brown Rice"
+
+        },
+        {
+            "SeriaNno" : "2",
+            "Itemname" : "Milk",
+            "Quantity" : "1 ltr",
+            "Unit" : "48",
+            "Department" : "Diary",
+            "Notes" : "Milma"
+        },
+        {
+            "SeriaNno" : "3",
+            "Itemname" : "Cofee Powder",
+            "Quantity" : "500gm",
+            "Unit" : "100",
+            "Department" : "beverages",
+            "Notes" : "Instant powder"
+        },
+        {
+            "SeriaNno" : "4",
+            "Itemname" : "Green Gram",
+            "Quantity" : "1kg",
+            "Unit" : "70",
+            "Department" : "Legame",
+            "Notes" : "Good quality"
+        },
+        {
+            "SeriaNno" : "5",
+            "Itemname" : "Sugar",
+            "Quantity" : "1kg",
+            "Unit" : "40",
+            "Department" : "sugar",
+            "Notes" : "caster sugar"
+
+        },
+        {
+            "SeriaNno" : "6",
+            "Itemname" : "Garlic",
+            "Quantity" : "200gm",
+            "Unit" : "20",
+            "Department" : "vegetable",
+            "Notes" : "fresh"
+
+        },
+        {
+            "SeriaNno" : "7",
+            "Itemname" : "Wheat flour",
+            "Quantity" : "1kg",
+            "Unit" : "20",
+            "Department" : "flour",
+            "Notes" : "packet"
+        },
+        {
+            "SeriaNno" : "8",
+            "Itemname" : "Onion",
+            "Quantity" : "1kg",
+            "Unit" : "35",
+            "Department" : "veggies",
+            "Notes" : "Fresh"
+        },
+        {
+            "SeriaNno" : "9",
+            "Itemname" : "Soap",
+            "Quantity" : "2pkt",
+            "Unit" : "48",
+            "Department" : "Toilet soaps",
+            "Notes" : "any brand"
+        },
+        {
+            "SeriaNno" : "10",
+            "Itemname" : "Cooking oil",
+            "Quantity" : "1ltr",
+            "Unit" : "102",
+            "Department" : "Oil",
+            "Notes" : "Sunflower oil"
+        }
+    ]
+
+}

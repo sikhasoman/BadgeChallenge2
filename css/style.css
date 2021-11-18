@@ -1,0 +1,54 @@
+
+*{
+    padding:0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+  body {
+    height: 100%;
+    background-image:linear-gradient(rgba(0, 0, 0, 0.5),rgba(0,0,0,0.5)),url('../images/istockphoto.jpg');
+    object-fit: cover;
+    background-size: cover;
+    align-items: center;
+
+  }
+  
+  .container {
+    background-size: cover;
+     font-family: sans-serif;
+    font-weight: 100;
+    margin-top: 70px;
+    margin-left: 40%;
+    margin-right: 5%;
+  
+  }
+  button{
+    color: black;
+    width : 150px;
+    height: 50px;
+    font-size: 20px;
+    border: 2px solid gold;
+    border-radius: 40px;
+    background:linear-gradient(-135deg,#f5f36c,#989a9b);
+  }
+  button:hover{
+  
+    background:linear-gradient(-135deg,#989a9b,#f5f36c);
+ }
+  table,th,td{
+    border: 1px solid gold;
+    text-align: center;
+    color: white;
+  height: 40px;
+
+    }
+    td{
+      background-color:#0008;
+    }
+    table{
+      width:100%;
+        }
+        th{
+          color: black;
+        }
